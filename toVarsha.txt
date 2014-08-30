@@ -1,0 +1,1 @@
+add new var ( userTxt ) to store input into textbox, as dictionary/list or anything that allows you to manipulate iundividual characters
